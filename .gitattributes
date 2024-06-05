@@ -25,3 +25,4 @@
 *.ex linguist-detectable=true
 *.rkt linguist-detectable=true
 *.clj linguist-detectable=true
+*.mb linguist-detectable=true
