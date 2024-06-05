@@ -22,3 +22,4 @@
 *.mcfunction linguist-detectable=true
 *.c linguist-detectable=true
 *.m linguist-detectable=true
+*.ex linguist-detectable=true
