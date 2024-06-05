@@ -28,3 +28,4 @@
 *.mb linguist-detectable=true
 *.fs linguist-detectable=true
 *.scm linguist-detectable=true
+*.jl linguist-detectable=true
