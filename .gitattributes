@@ -20,3 +20,4 @@
 *.js linguist-detectable=true
 *.json linguist-detectable=true
 *.mcfunction linguist-detectable=true
+*.c linguist-detectable=true
