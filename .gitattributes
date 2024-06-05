@@ -27,3 +27,4 @@
 *.clj linguist-detectable=true
 *.mb linguist-detectable=true
 *.fs linguist-detectable=true
+*.scm linguist-detectable=true
