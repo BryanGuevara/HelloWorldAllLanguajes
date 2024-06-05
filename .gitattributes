@@ -26,3 +26,4 @@
 *.rkt linguist-detectable=true
 *.clj linguist-detectable=true
 *.mb linguist-detectable=true
+*.fs linguist-detectable=true
