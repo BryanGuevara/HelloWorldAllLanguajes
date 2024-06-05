@@ -33,3 +33,8 @@
 ![Texto (.txt)](https://img.shields.io/badge/Texto-.txt-ff9999)
 ![JavaScript (.js)](https://img.shields.io/badge/JavaScript-.js-ff9999)
 ![mcFunction (.mcfunction)](https://img.shields.io/badge/mcFunction-.mcfunction-ff9999)
+![Malbolgue (.mb)](https://img.shields.io/badge/Malbolgue-.mb-ff9999)
+![FSharp (.fs)](https://img.shields.io/badge/FSarp-.fs-ff9999)
+![Schema (.scm)](https://img.shields.io/badge/Schema-.scm-ff9999)
+![Julia (.jl)](https://img.shields.io/badge/Julia-.jl-ff9999)
+![Erlang (.erl)](https://img.shields.io/badge/Erlang-.erl-ff9999)
