@@ -24,3 +24,4 @@
 *.m linguist-detectable=true
 *.ex linguist-detectable=true
 *.rkt linguist-detectable=true
+*.clj linguist-detectable=true
