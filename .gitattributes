@@ -31,3 +31,4 @@
 *.jl linguist-detectable=true
 *.erl linguist-detectable=true
 *.gd linguist-detectable=true
+*.css linguist-detectable=true
