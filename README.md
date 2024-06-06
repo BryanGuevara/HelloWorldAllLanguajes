@@ -38,3 +38,7 @@
 ![Schema (.scm)](https://img.shields.io/badge/Schema-.scm-ff9999)
 ![Julia (.jl)](https://img.shields.io/badge/Julia-.jl-ff9999)
 ![Erlang (.erl)](https://img.shields.io/badge/Erlang-.erl-ff9999)
+![GDScript (.gd)](https://img.shields.io/badge/GDScript-.gd-ff9999)
+![CSS (.css)](https://img.shields.io/badge/CSS-.css-ff9999)
+![Batch (.bat)](https://img.shields.io/badge/Batch-.bat-ff9999)
+![Assembly (.asm)](https://img.shields.io/badge/Assembly-.asm-ff9999)
