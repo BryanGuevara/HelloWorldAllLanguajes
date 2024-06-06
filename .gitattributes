@@ -33,3 +33,4 @@
 *.gd linguist-detectable=true
 *.css linguist-detectable=true
 *.bat linguist-detectable=true
+*.asm linguist-detectable=true
