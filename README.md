@@ -14,37 +14,39 @@ Así, en este sanctum de la programación, cada "Hello World" es más que un sim
 
 ### Todos los tipos de archivo en el Repositorio
 
-![Assembly (.asm)](https://img.shields.io/badge/Assembly-.asm-ffffff)
-![Batch (.bat)](https://img.shields.io/badge/Batch-.bat-ffffff)
-![C (.c)](https://img.shields.io/badge/C-.c-ffffff)
-![C++ (.cpp)](https://img.shields.io/badge/C%2B%2B-.cpp-ffffff)
-![C# (.cs)](https://img.shields.io/badge/C%23-.cs-ffffff)
-![Clojure (.clj)](https://img.shields.io/badge/Clojure-.clj-ffffff)
-![CSS (.css)](https://img.shields.io/badge/CSS-.css-ffffff)
-![Dart (.dart)](https://img.shields.io/badge/Dart-.dart-ffffff)
-![Elixir (.ex)](https://img.shields.io/badge/Elixir-.ex-ffffff)
-![Erlang (.erl)](https://img.shields.io/badge/Erlang-.erl-ffffff)
-![FSharp (.fs)](https://img.shields.io/badge/FSarp-.fs-ffffff)
-![GDScript (.gd)](https://img.shields.io/badge/GDScript-.gd-ffffff)
-![Go (.go)](https://img.shields.io/badge/Go-.go-ffffff)
-![Haskell (.hs)](https://img.shields.io/badge/Haskell-.hs-ffffff)
-![HTML (.html)](https://img.shields.io/badge/HTML-.html-ffffff)
-![Java (.java)](https://img.shields.io/badge/Java-.java-ffffff)
-![JavaScript (.js)](https://img.shields.io/badge/JavaScript-.js-ffffff)
-![Julia (.jl)](https://img.shields.io/badge/Julia-.jl-ffffff)
-![Lua (.lua)](https://img.shields.io/badge/Lua-.lua-ffffff)
-![Malbolgue (.mb)](https://img.shields.io/badge/Malbolgue-.mb-ffffff)
-![Markdown (.md)](https://img.shields.io/badge/Markdown-.md-ffffff)
-![mcFunction (.mcfunction)](https://img.shields.io/badge/mcFunction-.mcfunction-ffffff)
-![Objective-C (.m)](https://img.shields.io/badge/Objective--C-.m-ffffff)
-![PHP (.php)](https://img.shields.io/badge/PHP-.php-ffffff)
-![Perl (.pl)](https://img.shields.io/badge/Perl-.pl-ffffff)
-![Python (.py)](https://img.shields.io/badge/Python-.py-ffffff)
-![Racket (.rkt)](https://img.shields.io/badge/Racket-.rkt-ffffff)
-![Ruby (.rb)](https://img.shields.io/badge/Ruby-.rb-ffffff)
-![Rust (.rs)](https://img.shields.io/badge/Rust-.rs-ffffff)
-![Scala (.scala)](https://img.shields.io/badge/Scala-.scala-ffffff)
-![Schema (.scm)](https://img.shields.io/badge/Schema-.scm-ffffff)
-![SQL (.sql)](https://img.shields.io/badge/SQL-.sql-ffffff)
-![Swift (.swift)](https://img.shields.io/badge/Swift-.swift-ffffff)
-![Texto (.txt)](https://img.shields.io/badge/Texto-.txt-ffffff)
+| Lenguaje | Extensión | Archivo |
+|------------------|-----------|-------|
+| Assembly         | .asm      | ![HelloWorld.asm](https://img.shields.io/badge/HelloWorld-.asm-ffffff) |
+| Batch            | .bat      | ![HelloWorld.bat](https://img.shields.io/badge/HelloWorld-.bat-ffffff) |
+| C                | .c        | ![HelloWorld.c](https://img.shields.io/badge/HelloWorld-.c-ffffff) |
+| C++              | .cpp      | ![HelloWorld.cpp](https://img.shields.io/badge/HelloWorld-.cpp-ffffff) |
+| C#               | .cs       | ![HelloWorld.cs](https://img.shields.io/badge/HelloWorld-.cs-ffffff) |
+| Clojure          | .clj      | ![HelloWorld.clj](https://img.shields.io/badge/HelloWorld-.clj-ffffff) |
+| CSS              | .css      | ![HelloWorld.css](https://img.shields.io/badge/HelloWorld-.css-ffffff) |
+| Dart             | .dart     | ![HelloWorld.dart](https://img.shields.io/badge/HelloWorld-.dart-ffffff) |
+| Elixir           | .ex       | ![HelloWorld.ex](https://img.shields.io/badge/HelloWorld-.ex-ffffff) |
+| Erlang           | .erl      | ![HelloWorld.erl](https://img.shields.io/badge/HelloWorld-.erl-ffffff) |
+| FSharp           | .fs       | ![HelloWorld.fs](https://img.shields.io/badge/HelloWorld-.fs-ffffff) |
+| GDScript         | .gd       | ![HelloWorld.gd](https://img.shields.io/badge/HelloWorld-.gd-ffffff) |
+| Go               | .go       | ![HelloWorld.go](https://img.shields.io/badge/HelloWorld-.go-ffffff) |
+| Haskell          | .hs       | ![HelloWorld.hs](https://img.shields.io/badge/HelloWorld-.hs-ffffff) |
+| HTML             | .html     | ![HelloWorld.html](https://img.shields.io/badge/HelloWorld-.html-ffffff) |
+| Java             | .java     | ![HelloWorld.java](https://img.shields.io/badge/HelloWorld-.java-ffffff) |
+| JavaScript       | .js       | ![HelloWorld.js](https://img.shields.io/badge/HelloWorld-.js-ffffff) |
+| Julia            | .jl       | ![HelloWorld.jl](https://img.shields.io/badge/HelloWorld-.jl-ffffff) |
+| Lua              | .lua      | ![HelloWorld.lua](https://img.shields.io/badge/HelloWorld-.lua-ffffff) |
+| Malbolgue        | .mb       | ![HelloWorld.mb](https://img.shields.io/badge/HelloWorld-.mb-ffffff) |
+| Markdown         | .md       | ![HelloWorld.md](https://img.shields.io/badge/HelloWorld-.md-ffffff) |
+| mcFunction       | .mcfunction | ![HelloWorld.mcfunction](https://img.shields.io/badge/HelloWorld-.mcfunction-ffffff) |
+| Objective-C      | .m        | ![HelloWorld.m](https://img.shields.io/badge/HelloWorld-.m-ffffff) |
+| PHP              | .php      | ![HelloWorld.php](https://img.shields.io/badge/HelloWorld-.php-ffffff) |
+| Perl             | .pl       | ![HelloWorld.pl](https://img.shields.io/badge/HelloWorld-.pl-ffffff) |
+| Python           | .py       | ![HelloWorld.py](https://img.shields.io/badge/HelloWorld-.py-ffffff) |
+| Racket           | .rkt      | ![HelloWorld.rkt](https://img.shields.io/badge/HelloWorld-.rkt-ffffff) |
+| Ruby             | .rb       | ![HelloWorld.rb](https://img.shields.io/badge/HelloWorld-.rb-ffffff) |
+| Rust             | .rs       | ![HelloWorld.rs](https://img.shields.io/badge/HelloWorld-.rs-ffffff) |
+| Scala            | .scala    | ![HelloWorld.scala](https://img.shields.io/badge/HelloWorld-.scala-ffffff) |
+| Scheme           | .scm      | ![HelloWorld.scm](https://img.shields.io/badge/HelloWorld-.scm-ffffff) |
+| SQL              | .sql      | ![HelloWorld.sql](https://img.shields.io/badge/HelloWorld-.sql-ffffff) |
+| Swift            | .swift    | ![HelloWorld.swift](https://img.shields.io/badge/HelloWorld-.swift-ffffff) |
+| Texto            | .txt      | ![HelloWorld.txt](https://img.shields.io/badge/HelloWorld-.txt-ffffff) |
