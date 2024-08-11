@@ -14,7 +14,7 @@ Así, en este sanctum de la programación, cada "Hello World" es más que un sim
 
 ### Todos los tipos de archivo en el Repositorio
 
-| Lenguaje | Extensión | Archivo |
+| ![GitHub language count](https://img.shields.io/github/languages/count/BryanGuevara/HelloWorldAllLanguajes) | Extensión | Archivo |
 |------------------|-----------|-------|
 | Assembly         | .asm      | ![HelloWorld.asm](https://img.shields.io/badge/HelloWorld-.asm-ffffff) |
 | Batch            | .bat      | ![HelloWorld.bat](https://img.shields.io/badge/HelloWorld-.bat-ffffff) |
